@@ -1,2 +1,2 @@
-# empty-emptiness
+# Empty Emptiness
 Total empty WordPress theme.
